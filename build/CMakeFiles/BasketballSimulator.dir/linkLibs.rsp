@@ -1,0 +1,1 @@
+ "C:/Users/Jaspreet/Documents/Msc/sem3/cg/thirdparty/glfw/lib-mingw/libglfw3dll.a" -lopengl32 -lgdi32 -luser32 -lshell32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
